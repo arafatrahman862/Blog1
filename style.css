@@ -1,0 +1,80 @@
+.lorem{
+    background-color: green;
+    color: rgb(0, 0, 0);
+    border-radius: 5px;
+    margin: 5px;
+    font-family: 'Times New Roman', Times, serif;
+    padding-top: 5px;
+}
+#header{
+    color: rgb(94, 59, 59);
+    
+    text-align: center;
+    background-color: rgb(98, 119, 158);
+    background-image: url("../index.png");
+    background-position: 50%;
+    background-repeat: no-repeat;
+    background-size: 100px;
+    padding: 30px;
+    background-position-x: 10px;
+    text-decoration: underline rgb(0, 0, 0);
+
+}
+.lorem1{
+    background-color: rgb(189, 26, 26);
+    border-radius: 5px;
+    color: rgb(0, 0, 0);
+    border-color: rgb(136, 63, 63);
+    font-family: 'Times New Roman', Times, serif;
+    margin: 5px;
+    padding-top: 5px;
+}
+#intro{
+    color: rgb(153, 173, 173);
+background-color: khaki;
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+text-align: center;
+box-sizing: border-box;
+text-decoration: wavy;
+text-decoration: rgb(0, 0, 0);
+border-radius: 5px;
+}
+
+#interval{
+    color: rgb(153, 173, 173);
+    background-color: khaki;
+    border-radius: 5px;
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    box
+}
+#end{
+    color: rgb(153, 173, 173);
+    background-color: khaki;
+    text-align: center;
+    
+    border-radius: 5px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    
+}
+#visit{
+    color: blue;
+    text-align: center;
+    text-decoration: underline;
+}
+#pass{
+color: blueviolet;
+text-decoration: underline;
+}
+#op{
+    color: blueviolet;
+    text-decoration: underline;
+}
+#com{
+    color: blueviolet;
+    text-decoration: underline;
+}
+#copy{
+    color: red;
+    background-color: darkblue;
+}
